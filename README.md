@@ -1,4 +1,4 @@
-# Proyecto TIC Dogbnb
+# Proyecto TIC, Dogbnb.
 
 Profesor: Pablo Urquizo.
 
